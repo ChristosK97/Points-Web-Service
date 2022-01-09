@@ -38,17 +38,17 @@ and returns the list of added transactions.
 
 Example: { "payer": "DANNON", "points": 1000, "timestamp": "2020-11-02T14:00:00Z" }
 
-![alt text](https://i.imgur.com/ibwN1a6.png)
+![alt text](https://i.imgur.com/SxugkwG.png)
 
 **spendPointsAction**: POST endpoint that expects a JSON of the amount of points to be spent, and returns a JSON with the payers, and how much each spent.
 
 Example: { "points": 5000 }
 
-![alt text](https://i.imgur.com/BZzxBOK.png)
+![alt text](https://i.imgur.com/OQgJBdh.png)
 
 **balances**: GET endpoint that retrieves the balances for each payer.
 
-![alt text](https://i.imgur.com/R3iJqHN.png)
+![alt text](https://i.imgur.com/zTLnXKN.png)
 
 ## Bult with
 
