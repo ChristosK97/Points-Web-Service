@@ -26,8 +26,6 @@ python webserver.py
 ```
 
 
-
-
 ## Usage
 These endpoints were called using Postman in my testing. https://web.postman.co/
 
@@ -50,7 +48,7 @@ Example: { "points": 5000 }
 
 ![alt text](https://i.imgur.com/zTLnXKN.png)
 
-## Bult with
+## Built with
 
 [CherryPy](https://docs.cherrypy.dev/en/latest/) - A pythonic, object-oriented HTTP framework.
 
